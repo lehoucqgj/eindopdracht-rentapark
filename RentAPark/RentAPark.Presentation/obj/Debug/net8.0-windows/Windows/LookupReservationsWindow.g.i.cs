@@ -109,7 +109,7 @@ namespace RentAPark.Presentation.Windows {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/RentAPark.Presentation;V1.0.0.0;component/windows/lookupreservationswindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/RentAPark.Presentation;component/windows/lookupreservationswindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Windows\LookupReservationsWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

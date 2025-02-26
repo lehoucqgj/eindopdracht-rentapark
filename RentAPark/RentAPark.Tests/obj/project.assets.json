@@ -5530,11 +5530,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Tests\\RentAPark.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Tests\\RentAPark.Tests.csproj",
       "projectName": "RentAPark.Tests",
-      "projectPath": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Tests\\RentAPark.Tests.csproj",
+      "projectPath": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Tests\\RentAPark.Tests.csproj",
       "packagesPath": "C:\\Users\\gertj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Tests\\obj\\",
+      "outputPath": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5556,8 +5556,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Domain\\RentAPark.Domain.csproj": {
-              "projectPath": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Domain\\RentAPark.Domain.csproj"
+            "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Domain\\RentAPark.Domain.csproj": {
+              "projectPath": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Domain\\RentAPark.Domain.csproj"
             }
           }
         }
@@ -5572,7 +5572,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -5611,7 +5611,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

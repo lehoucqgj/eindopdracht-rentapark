@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wY9DAdyjVj8=",
+  "dgSpecHash": "+k/odLWeROY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Tests\\RentAPark.Tests.csproj",
+  "projectFilePath": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Tests\\RentAPark.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gertj\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\gertj\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

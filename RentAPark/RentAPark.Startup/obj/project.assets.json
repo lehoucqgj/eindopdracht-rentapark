@@ -1750,11 +1750,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Startup\\RentAPark.Startup.csproj",
+      "projectUniqueName": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Startup\\RentAPark.Startup.csproj",
       "projectName": "RentAPark.Startup",
-      "projectPath": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Startup\\RentAPark.Startup.csproj",
+      "projectPath": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Startup\\RentAPark.Startup.csproj",
       "packagesPath": "C:\\Users\\gertj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Startup\\obj\\",
+      "outputPath": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Startup\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1776,14 +1776,14 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Domain\\RentAPark.Domain.csproj": {
-              "projectPath": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Domain\\RentAPark.Domain.csproj"
+            "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Domain\\RentAPark.Domain.csproj": {
+              "projectPath": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Domain\\RentAPark.Domain.csproj"
             },
-            "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Persistence\\RentAPark.Persistence.csproj": {
-              "projectPath": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Persistence\\RentAPark.Persistence.csproj"
+            "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Persistence\\RentAPark.Persistence.csproj": {
+              "projectPath": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Persistence\\RentAPark.Persistence.csproj"
             },
-            "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Presentation\\RentAPark.Presentation.csproj": {
-              "projectPath": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Presentation\\RentAPark.Presentation.csproj"
+            "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Presentation\\RentAPark.Presentation.csproj": {
+              "projectPath": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Presentation\\RentAPark.Presentation.csproj"
             }
           }
         }
@@ -1798,7 +1798,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0-windows7.0": {
@@ -1822,7 +1822,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

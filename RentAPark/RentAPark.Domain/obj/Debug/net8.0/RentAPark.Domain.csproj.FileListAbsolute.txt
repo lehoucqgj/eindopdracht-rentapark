@@ -10,3 +10,14 @@ C:\Users\gertj\Documents\GitHub\programmeren\prog gevorderd\Eindopdracht\RentAPa
 C:\Users\gertj\Documents\GitHub\programmeren\prog gevorderd\Eindopdracht\RentAPark\RentAPark.Domain\obj\Debug\net8.0\refint\RentAPark.Domain.dll
 C:\Users\gertj\Documents\GitHub\programmeren\prog gevorderd\Eindopdracht\RentAPark\RentAPark.Domain\obj\Debug\net8.0\RentAPark.Domain.pdb
 C:\Users\gertj\Documents\GitHub\programmeren\prog gevorderd\Eindopdracht\RentAPark\RentAPark.Domain\obj\Debug\net8.0\ref\RentAPark.Domain.dll
+C:\Users\gertj\Documents\Graduaat programmeren\Prog3 gevorderd\eindopdracht-rentapark\RentAPark\RentAPark.Domain\bin\Debug\net8.0\RentAPark.Domain.deps.json
+C:\Users\gertj\Documents\Graduaat programmeren\Prog3 gevorderd\eindopdracht-rentapark\RentAPark\RentAPark.Domain\bin\Debug\net8.0\RentAPark.Domain.dll
+C:\Users\gertj\Documents\Graduaat programmeren\Prog3 gevorderd\eindopdracht-rentapark\RentAPark\RentAPark.Domain\bin\Debug\net8.0\RentAPark.Domain.pdb
+C:\Users\gertj\Documents\Graduaat programmeren\Prog3 gevorderd\eindopdracht-rentapark\RentAPark\RentAPark.Domain\obj\Debug\net8.0\RentAPark.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gertj\Documents\Graduaat programmeren\Prog3 gevorderd\eindopdracht-rentapark\RentAPark\RentAPark.Domain\obj\Debug\net8.0\RentAPark.Domain.AssemblyInfoInputs.cache
+C:\Users\gertj\Documents\Graduaat programmeren\Prog3 gevorderd\eindopdracht-rentapark\RentAPark\RentAPark.Domain\obj\Debug\net8.0\RentAPark.Domain.AssemblyInfo.cs
+C:\Users\gertj\Documents\Graduaat programmeren\Prog3 gevorderd\eindopdracht-rentapark\RentAPark\RentAPark.Domain\obj\Debug\net8.0\RentAPark.Domain.csproj.CoreCompileInputs.cache
+C:\Users\gertj\Documents\Graduaat programmeren\Prog3 gevorderd\eindopdracht-rentapark\RentAPark\RentAPark.Domain\obj\Debug\net8.0\RentAPark.Domain.dll
+C:\Users\gertj\Documents\Graduaat programmeren\Prog3 gevorderd\eindopdracht-rentapark\RentAPark\RentAPark.Domain\obj\Debug\net8.0\refint\RentAPark.Domain.dll
+C:\Users\gertj\Documents\Graduaat programmeren\Prog3 gevorderd\eindopdracht-rentapark\RentAPark\RentAPark.Domain\obj\Debug\net8.0\RentAPark.Domain.pdb
+C:\Users\gertj\Documents\Graduaat programmeren\Prog3 gevorderd\eindopdracht-rentapark\RentAPark\RentAPark.Domain\obj\Debug\net8.0\ref\RentAPark.Domain.dll

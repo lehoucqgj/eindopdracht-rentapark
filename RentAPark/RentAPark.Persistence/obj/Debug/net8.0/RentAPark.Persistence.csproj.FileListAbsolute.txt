@@ -14,3 +14,18 @@ C:\Users\gertj\Documents\GitHub\programmeren\prog gevorderd\Eindopdracht\RentAPa
 C:\Users\gertj\Documents\GitHub\programmeren\prog gevorderd\Eindopdracht\RentAPark\RentAPark.Persistence\obj\Debug\net8.0\refint\RentAPark.Persistence.dll
 C:\Users\gertj\Documents\GitHub\programmeren\prog gevorderd\Eindopdracht\RentAPark\RentAPark.Persistence\obj\Debug\net8.0\RentAPark.Persistence.pdb
 C:\Users\gertj\Documents\GitHub\programmeren\prog gevorderd\Eindopdracht\RentAPark\RentAPark.Persistence\obj\Debug\net8.0\ref\RentAPark.Persistence.dll
+C:\Users\gertj\Documents\Graduaat programmeren\Prog3 gevorderd\eindopdracht-rentapark\RentAPark\RentAPark.Persistence\bin\Debug\net8.0\RentAPark.Persistence.deps.json
+C:\Users\gertj\Documents\Graduaat programmeren\Prog3 gevorderd\eindopdracht-rentapark\RentAPark\RentAPark.Persistence\bin\Debug\net8.0\RentAPark.Persistence.dll
+C:\Users\gertj\Documents\Graduaat programmeren\Prog3 gevorderd\eindopdracht-rentapark\RentAPark\RentAPark.Persistence\bin\Debug\net8.0\RentAPark.Persistence.pdb
+C:\Users\gertj\Documents\Graduaat programmeren\Prog3 gevorderd\eindopdracht-rentapark\RentAPark\RentAPark.Persistence\bin\Debug\net8.0\RentAPark.Domain.dll
+C:\Users\gertj\Documents\Graduaat programmeren\Prog3 gevorderd\eindopdracht-rentapark\RentAPark\RentAPark.Persistence\bin\Debug\net8.0\RentAPark.Domain.pdb
+C:\Users\gertj\Documents\Graduaat programmeren\Prog3 gevorderd\eindopdracht-rentapark\RentAPark\RentAPark.Persistence\obj\Debug\net8.0\RentAPark.Persistence.csproj.AssemblyReference.cache
+C:\Users\gertj\Documents\Graduaat programmeren\Prog3 gevorderd\eindopdracht-rentapark\RentAPark\RentAPark.Persistence\obj\Debug\net8.0\RentAPark.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gertj\Documents\Graduaat programmeren\Prog3 gevorderd\eindopdracht-rentapark\RentAPark\RentAPark.Persistence\obj\Debug\net8.0\RentAPark.Persistence.AssemblyInfoInputs.cache
+C:\Users\gertj\Documents\Graduaat programmeren\Prog3 gevorderd\eindopdracht-rentapark\RentAPark\RentAPark.Persistence\obj\Debug\net8.0\RentAPark.Persistence.AssemblyInfo.cs
+C:\Users\gertj\Documents\Graduaat programmeren\Prog3 gevorderd\eindopdracht-rentapark\RentAPark\RentAPark.Persistence\obj\Debug\net8.0\RentAPark.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\gertj\Documents\Graduaat programmeren\Prog3 gevorderd\eindopdracht-rentapark\RentAPark\RentAPark.Persistence\obj\Debug\net8.0\RentAPar.B9B58849.Up2Date
+C:\Users\gertj\Documents\Graduaat programmeren\Prog3 gevorderd\eindopdracht-rentapark\RentAPark\RentAPark.Persistence\obj\Debug\net8.0\RentAPark.Persistence.dll
+C:\Users\gertj\Documents\Graduaat programmeren\Prog3 gevorderd\eindopdracht-rentapark\RentAPark\RentAPark.Persistence\obj\Debug\net8.0\refint\RentAPark.Persistence.dll
+C:\Users\gertj\Documents\Graduaat programmeren\Prog3 gevorderd\eindopdracht-rentapark\RentAPark\RentAPark.Persistence\obj\Debug\net8.0\RentAPark.Persistence.pdb
+C:\Users\gertj\Documents\Graduaat programmeren\Prog3 gevorderd\eindopdracht-rentapark\RentAPark\RentAPark.Persistence\obj\Debug\net8.0\ref\RentAPark.Persistence.dll

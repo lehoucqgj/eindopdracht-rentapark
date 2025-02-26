@@ -343,7 +343,7 @@
       "RentAPark.Domain/1.0.0": {
         "runtime": {
           "RentAPark.Domain.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -355,7 +355,7 @@
         },
         "runtime": {
           "RentAPark.Persistence.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -366,7 +366,7 @@
         },
         "runtime": {
           "RentAPark.Presentation.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }

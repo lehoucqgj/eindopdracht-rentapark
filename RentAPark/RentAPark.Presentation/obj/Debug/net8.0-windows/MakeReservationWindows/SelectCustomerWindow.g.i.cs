@@ -69,8 +69,8 @@ namespace RentAPark.Presentation.Windows {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/RentAPark.Presentation;V1.0.0.0;component/makereservationwindows/selectcustomerw" +
-                    "indow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/RentAPark.Presentation;component/makereservationwindows/selectcustomerwindow.xam" +
+                    "l", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\MakeReservationWindows\SelectCustomerWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

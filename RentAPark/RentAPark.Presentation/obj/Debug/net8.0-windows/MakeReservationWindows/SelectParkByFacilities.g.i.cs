@@ -101,8 +101,8 @@ namespace RentAPark.Presentation.Windows {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/RentAPark.Presentation;V1.0.0.0;component/makereservationwindows/selectparkbyfac" +
-                    "ilities.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/RentAPark.Presentation;component/makereservationwindows/selectparkbyfacilities.x" +
+                    "aml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\MakeReservationWindows\SelectParkByFacilities.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

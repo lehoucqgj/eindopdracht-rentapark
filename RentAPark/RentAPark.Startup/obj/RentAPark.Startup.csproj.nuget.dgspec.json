@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Startup\\RentAPark.Startup.csproj": {}
+    "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Startup\\RentAPark.Startup.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Domain\\RentAPark.Domain.csproj": {
+    "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Domain\\RentAPark.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Domain\\RentAPark.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Domain\\RentAPark.Domain.csproj",
         "projectName": "RentAPark.Domain",
-        "projectPath": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Domain\\RentAPark.Domain.csproj",
+        "projectPath": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Domain\\RentAPark.Domain.csproj",
         "packagesPath": "C:\\Users\\gertj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Domain\\obj\\",
+        "outputPath": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -45,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -66,18 +66,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Persistence\\RentAPark.Persistence.csproj": {
+    "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Persistence\\RentAPark.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Persistence\\RentAPark.Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Persistence\\RentAPark.Persistence.csproj",
         "projectName": "RentAPark.Persistence",
-        "projectPath": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Persistence\\RentAPark.Persistence.csproj",
+        "projectPath": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Persistence\\RentAPark.Persistence.csproj",
         "packagesPath": "C:\\Users\\gertj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Persistence\\obj\\",
+        "outputPath": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -99,8 +99,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Domain\\RentAPark.Domain.csproj": {
-                "projectPath": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Domain\\RentAPark.Domain.csproj"
+              "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Domain\\RentAPark.Domain.csproj": {
+                "projectPath": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Domain\\RentAPark.Domain.csproj"
               }
             }
           }
@@ -115,7 +115,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -142,18 +142,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Presentation\\RentAPark.Presentation.csproj": {
+    "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Presentation\\RentAPark.Presentation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Presentation\\RentAPark.Presentation.csproj",
+        "projectUniqueName": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Presentation\\RentAPark.Presentation.csproj",
         "projectName": "RentAPark.Presentation",
-        "projectPath": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Presentation\\RentAPark.Presentation.csproj",
+        "projectPath": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Presentation\\RentAPark.Presentation.csproj",
         "packagesPath": "C:\\Users\\gertj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Presentation\\obj\\",
+        "outputPath": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Presentation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -175,8 +175,8 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Domain\\RentAPark.Domain.csproj": {
-                "projectPath": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Domain\\RentAPark.Domain.csproj"
+              "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Domain\\RentAPark.Domain.csproj": {
+                "projectPath": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Domain\\RentAPark.Domain.csproj"
               }
             }
           }
@@ -191,7 +191,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0-windows7.0": {
@@ -215,18 +215,18 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Startup\\RentAPark.Startup.csproj": {
+    "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Startup\\RentAPark.Startup.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Startup\\RentAPark.Startup.csproj",
+        "projectUniqueName": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Startup\\RentAPark.Startup.csproj",
         "projectName": "RentAPark.Startup",
-        "projectPath": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Startup\\RentAPark.Startup.csproj",
+        "projectPath": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Startup\\RentAPark.Startup.csproj",
         "packagesPath": "C:\\Users\\gertj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Startup\\obj\\",
+        "outputPath": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Startup\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -248,14 +248,14 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Domain\\RentAPark.Domain.csproj": {
-                "projectPath": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Domain\\RentAPark.Domain.csproj"
+              "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Domain\\RentAPark.Domain.csproj": {
+                "projectPath": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Domain\\RentAPark.Domain.csproj"
               },
-              "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Persistence\\RentAPark.Persistence.csproj": {
-                "projectPath": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Persistence\\RentAPark.Persistence.csproj"
+              "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Persistence\\RentAPark.Persistence.csproj": {
+                "projectPath": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Persistence\\RentAPark.Persistence.csproj"
               },
-              "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Presentation\\RentAPark.Presentation.csproj": {
-                "projectPath": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Presentation\\RentAPark.Presentation.csproj"
+              "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Presentation\\RentAPark.Presentation.csproj": {
+                "projectPath": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Presentation\\RentAPark.Presentation.csproj"
               }
             }
           }
@@ -270,7 +270,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0-windows7.0": {
@@ -294,7 +294,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -117,7 +117,7 @@ namespace RentAPark.Presentation.Windows {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/RentAPark.Presentation;V1.0.0.0;component/windows/maintenancewindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/RentAPark.Presentation;component/windows/maintenancewindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Windows\MaintenanceWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

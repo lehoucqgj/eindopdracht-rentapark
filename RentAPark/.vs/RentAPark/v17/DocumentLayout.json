@@ -1,65 +1,65 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\",
+  "WorkspaceRootPath": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ED807F1E-2762-4C90-957E-CFEAB3CC4E4F}|RentAPark.Domain\\RentAPark.Domain.csproj|c:\\users\\gertj\\documents\\graduaat programmeren\\prog3 gevorderd\\eindopdracht\\rentapark\\rentapark.domain\\domainmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED807F1E-2762-4C90-957E-CFEAB3CC4E4F}|RentAPark.Domain\\RentAPark.Domain.csproj|c:\\users\\gertj\\documents\\graduaat programmeren\\prog3 gevorderd\\eindopdracht-rentapark\\rentapark\\rentapark.domain\\domainmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED807F1E-2762-4C90-957E-CFEAB3CC4E4F}|RentAPark.Domain\\RentAPark.Domain.csproj|solutionrelative:rentapark.domain\\domainmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B381F05-4354-4D87-B29E-92CF45EE6D31}|RentAPark.Presentation\\RentAPark.Presentation.csproj|c:\\users\\gertj\\documents\\graduaat programmeren\\prog3 gevorderd\\eindopdracht\\rentapark\\rentapark.presentation\\windows\\lookupreservationswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{1B381F05-4354-4D87-B29E-92CF45EE6D31}|RentAPark.Presentation\\RentAPark.Presentation.csproj|c:\\users\\gertj\\documents\\graduaat programmeren\\prog3 gevorderd\\eindopdracht-rentapark\\rentapark\\rentapark.presentation\\windows\\lookupreservationswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{1B381F05-4354-4D87-B29E-92CF45EE6D31}|RentAPark.Presentation\\RentAPark.Presentation.csproj|solutionrelative:rentapark.presentation\\windows\\lookupreservationswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39EF7C49-874E-45A4-8EF5-D0B55E3D0CBF}|RentAPark.Persistence\\RentAPark.Persistence.csproj|c:\\users\\gertj\\documents\\graduaat programmeren\\prog3 gevorderd\\eindopdracht\\rentapark\\rentapark.persistence\\mappers\\reservationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{39EF7C49-874E-45A4-8EF5-D0B55E3D0CBF}|RentAPark.Persistence\\RentAPark.Persistence.csproj|c:\\users\\gertj\\documents\\graduaat programmeren\\prog3 gevorderd\\eindopdracht-rentapark\\rentapark\\rentapark.persistence\\mappers\\reservationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39EF7C49-874E-45A4-8EF5-D0B55E3D0CBF}|RentAPark.Persistence\\RentAPark.Persistence.csproj|solutionrelative:rentapark.persistence\\mappers\\reservationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B381F05-4354-4D87-B29E-92CF45EE6D31}|RentAPark.Presentation\\RentAPark.Presentation.csproj|c:\\users\\gertj\\documents\\graduaat programmeren\\prog3 gevorderd\\eindopdracht\\rentapark\\rentapark.presentation\\windows\\maintenancewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{1B381F05-4354-4D87-B29E-92CF45EE6D31}|RentAPark.Presentation\\RentAPark.Presentation.csproj|c:\\users\\gertj\\documents\\graduaat programmeren\\prog3 gevorderd\\eindopdracht-rentapark\\rentapark\\rentapark.presentation\\windows\\maintenancewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{1B381F05-4354-4D87-B29E-92CF45EE6D31}|RentAPark.Presentation\\RentAPark.Presentation.csproj|solutionrelative:rentapark.presentation\\windows\\maintenancewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39EF7C49-874E-45A4-8EF5-D0B55E3D0CBF}|RentAPark.Persistence\\RentAPark.Persistence.csproj|c:\\users\\gertj\\documents\\graduaat programmeren\\prog3 gevorderd\\eindopdracht\\rentapark\\rentapark.persistence\\mappers\\parkmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{39EF7C49-874E-45A4-8EF5-D0B55E3D0CBF}|RentAPark.Persistence\\RentAPark.Persistence.csproj|c:\\users\\gertj\\documents\\graduaat programmeren\\prog3 gevorderd\\eindopdracht-rentapark\\rentapark\\rentapark.persistence\\mappers\\parkmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39EF7C49-874E-45A4-8EF5-D0B55E3D0CBF}|RentAPark.Persistence\\RentAPark.Persistence.csproj|solutionrelative:rentapark.persistence\\mappers\\parkmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39EF7C49-874E-45A4-8EF5-D0B55E3D0CBF}|RentAPark.Persistence\\RentAPark.Persistence.csproj|c:\\users\\gertj\\documents\\graduaat programmeren\\prog3 gevorderd\\eindopdracht\\rentapark\\rentapark.persistence\\mappers\\housemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{39EF7C49-874E-45A4-8EF5-D0B55E3D0CBF}|RentAPark.Persistence\\RentAPark.Persistence.csproj|c:\\users\\gertj\\documents\\graduaat programmeren\\prog3 gevorderd\\eindopdracht-rentapark\\rentapark\\rentapark.persistence\\mappers\\housemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39EF7C49-874E-45A4-8EF5-D0B55E3D0CBF}|RentAPark.Persistence\\RentAPark.Persistence.csproj|solutionrelative:rentapark.persistence\\mappers\\housemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39EF7C49-874E-45A4-8EF5-D0B55E3D0CBF}|RentAPark.Persistence\\RentAPark.Persistence.csproj|c:\\users\\gertj\\documents\\graduaat programmeren\\prog3 gevorderd\\eindopdracht\\rentapark\\rentapark.persistence\\mappers\\facilitymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{39EF7C49-874E-45A4-8EF5-D0B55E3D0CBF}|RentAPark.Persistence\\RentAPark.Persistence.csproj|c:\\users\\gertj\\documents\\graduaat programmeren\\prog3 gevorderd\\eindopdracht-rentapark\\rentapark\\rentapark.persistence\\mappers\\facilitymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39EF7C49-874E-45A4-8EF5-D0B55E3D0CBF}|RentAPark.Persistence\\RentAPark.Persistence.csproj|solutionrelative:rentapark.persistence\\mappers\\facilitymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B381F05-4354-4D87-B29E-92CF45EE6D31}|RentAPark.Presentation\\RentAPark.Presentation.csproj|c:\\users\\gertj\\documents\\graduaat programmeren\\prog3 gevorderd\\eindopdracht\\rentapark\\rentapark.presentation\\windows\\lookupreservationswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1B381F05-4354-4D87-B29E-92CF45EE6D31}|RentAPark.Presentation\\RentAPark.Presentation.csproj|c:\\users\\gertj\\documents\\graduaat programmeren\\prog3 gevorderd\\eindopdracht-rentapark\\rentapark\\rentapark.presentation\\windows\\lookupreservationswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B381F05-4354-4D87-B29E-92CF45EE6D31}|RentAPark.Presentation\\RentAPark.Presentation.csproj|solutionrelative:rentapark.presentation\\windows\\lookupreservationswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B381F05-4354-4D87-B29E-92CF45EE6D31}|RentAPark.Presentation\\RentAPark.Presentation.csproj|c:\\users\\gertj\\documents\\graduaat programmeren\\prog3 gevorderd\\eindopdracht\\rentapark\\rentapark.presentation\\rentaparkapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1B381F05-4354-4D87-B29E-92CF45EE6D31}|RentAPark.Presentation\\RentAPark.Presentation.csproj|c:\\users\\gertj\\documents\\graduaat programmeren\\prog3 gevorderd\\eindopdracht-rentapark\\rentapark\\rentapark.presentation\\rentaparkapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B381F05-4354-4D87-B29E-92CF45EE6D31}|RentAPark.Presentation\\RentAPark.Presentation.csproj|solutionrelative:rentapark.presentation\\rentaparkapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B381F05-4354-4D87-B29E-92CF45EE6D31}|RentAPark.Presentation\\RentAPark.Presentation.csproj|c:\\users\\gertj\\documents\\graduaat programmeren\\prog3 gevorderd\\eindopdracht\\rentapark\\rentapark.presentation\\windows\\maintenancewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1B381F05-4354-4D87-B29E-92CF45EE6D31}|RentAPark.Presentation\\RentAPark.Presentation.csproj|c:\\users\\gertj\\documents\\graduaat programmeren\\prog3 gevorderd\\eindopdracht-rentapark\\rentapark\\rentapark.presentation\\windows\\maintenancewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B381F05-4354-4D87-B29E-92CF45EE6D31}|RentAPark.Presentation\\RentAPark.Presentation.csproj|solutionrelative:rentapark.presentation\\windows\\maintenancewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39EF7C49-874E-45A4-8EF5-D0B55E3D0CBF}|RentAPark.Persistence\\RentAPark.Persistence.csproj|c:\\users\\gertj\\documents\\graduaat programmeren\\prog3 gevorderd\\eindopdracht\\rentapark\\rentapark.persistence\\mappers\\customermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{39EF7C49-874E-45A4-8EF5-D0B55E3D0CBF}|RentAPark.Persistence\\RentAPark.Persistence.csproj|c:\\users\\gertj\\documents\\graduaat programmeren\\prog3 gevorderd\\eindopdracht-rentapark\\rentapark\\rentapark.persistence\\mappers\\customermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39EF7C49-874E-45A4-8EF5-D0B55E3D0CBF}|RentAPark.Persistence\\RentAPark.Persistence.csproj|solutionrelative:rentapark.persistence\\mappers\\customermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED807F1E-2762-4C90-957E-CFEAB3CC4E4F}|RentAPark.Domain\\RentAPark.Domain.csproj|c:\\users\\gertj\\documents\\graduaat programmeren\\prog3 gevorderd\\eindopdracht\\rentapark\\rentapark.domain\\repositories\\ihouserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED807F1E-2762-4C90-957E-CFEAB3CC4E4F}|RentAPark.Domain\\RentAPark.Domain.csproj|c:\\users\\gertj\\documents\\graduaat programmeren\\prog3 gevorderd\\eindopdracht-rentapark\\rentapark\\rentapark.domain\\repositories\\ihouserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED807F1E-2762-4C90-957E-CFEAB3CC4E4F}|RentAPark.Domain\\RentAPark.Domain.csproj|solutionrelative:rentapark.domain\\repositories\\ihouserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED807F1E-2762-4C90-957E-CFEAB3CC4E4F}|RentAPark.Domain\\RentAPark.Domain.csproj|c:\\users\\gertj\\documents\\graduaat programmeren\\prog3 gevorderd\\eindopdracht\\rentapark\\rentapark.domain\\repositories\\ireservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED807F1E-2762-4C90-957E-CFEAB3CC4E4F}|RentAPark.Domain\\RentAPark.Domain.csproj|c:\\users\\gertj\\documents\\graduaat programmeren\\prog3 gevorderd\\eindopdracht-rentapark\\rentapark\\rentapark.domain\\repositories\\ireservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED807F1E-2762-4C90-957E-CFEAB3CC4E4F}|RentAPark.Domain\\RentAPark.Domain.csproj|solutionrelative:rentapark.domain\\repositories\\ireservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B381F05-4354-4D87-B29E-92CF45EE6D31}|RentAPark.Presentation\\RentAPark.Presentation.csproj|c:\\users\\gertj\\documents\\graduaat programmeren\\prog3 gevorderd\\eindopdracht\\rentapark\\rentapark.presentation\\makereservationwindows\\selectcustomerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1B381F05-4354-4D87-B29E-92CF45EE6D31}|RentAPark.Presentation\\RentAPark.Presentation.csproj|c:\\users\\gertj\\documents\\graduaat programmeren\\prog3 gevorderd\\eindopdracht-rentapark\\rentapark\\rentapark.presentation\\makereservationwindows\\selectcustomerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B381F05-4354-4D87-B29E-92CF45EE6D31}|RentAPark.Presentation\\RentAPark.Presentation.csproj|solutionrelative:rentapark.presentation\\makereservationwindows\\selectcustomerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\SQLQueryparkshouses.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\SQLQueryparkshouses.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQueryparkshouses.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
     }
   ],
@@ -76,9 +76,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "DomainManager.cs",
-              "DocumentMoniker": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Domain\\DomainManager.cs",
+              "DocumentMoniker": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Domain\\DomainManager.cs",
               "RelativeDocumentMoniker": "RentAPark.Domain\\DomainManager.cs",
-              "ToolTip": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Domain\\DomainManager.cs",
+              "ToolTip": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Domain\\DomainManager.cs",
               "RelativeToolTip": "RentAPark.Domain\\DomainManager.cs",
               "ViewState": "AgIAAGIAAAAAAAAAAAAawHEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -90,9 +90,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "CustomerMapper.cs",
-              "DocumentMoniker": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Persistence\\Mappers\\CustomerMapper.cs",
+              "DocumentMoniker": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Persistence\\Mappers\\CustomerMapper.cs",
               "RelativeDocumentMoniker": "RentAPark.Persistence\\Mappers\\CustomerMapper.cs",
-              "ToolTip": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Persistence\\Mappers\\CustomerMapper.cs",
+              "ToolTip": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Persistence\\Mappers\\CustomerMapper.cs",
               "RelativeToolTip": "RentAPark.Persistence\\Mappers\\CustomerMapper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -102,9 +102,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "MaintenanceWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Presentation\\Windows\\MaintenanceWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Presentation\\Windows\\MaintenanceWindow.xaml.cs",
               "RelativeDocumentMoniker": "RentAPark.Presentation\\Windows\\MaintenanceWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Presentation\\Windows\\MaintenanceWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Presentation\\Windows\\MaintenanceWindow.xaml.cs",
               "RelativeToolTip": "RentAPark.Presentation\\Windows\\MaintenanceWindow.xaml.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAEwCMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -114,9 +114,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "IReservationRepository.cs",
-              "DocumentMoniker": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Domain\\Repositories\\IReservationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Domain\\Repositories\\IReservationRepository.cs",
               "RelativeDocumentMoniker": "RentAPark.Domain\\Repositories\\IReservationRepository.cs",
-              "ToolTip": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Domain\\Repositories\\IReservationRepository.cs",
+              "ToolTip": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Domain\\Repositories\\IReservationRepository.cs",
               "RelativeToolTip": "RentAPark.Domain\\Repositories\\IReservationRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -126,9 +126,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "IHouseRepository.cs",
-              "DocumentMoniker": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Domain\\Repositories\\IHouseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Domain\\Repositories\\IHouseRepository.cs",
               "RelativeDocumentMoniker": "RentAPark.Domain\\Repositories\\IHouseRepository.cs",
-              "ToolTip": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Domain\\Repositories\\IHouseRepository.cs",
+              "ToolTip": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Domain\\Repositories\\IHouseRepository.cs",
               "RelativeToolTip": "RentAPark.Domain\\Repositories\\IHouseRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -138,9 +138,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "SelectCustomerWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Presentation\\MakeReservationWindows\\SelectCustomerWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Presentation\\MakeReservationWindows\\SelectCustomerWindow.xaml.cs",
               "RelativeDocumentMoniker": "RentAPark.Presentation\\MakeReservationWindows\\SelectCustomerWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Presentation\\MakeReservationWindows\\SelectCustomerWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Presentation\\MakeReservationWindows\\SelectCustomerWindow.xaml.cs",
               "RelativeToolTip": "RentAPark.Presentation\\MakeReservationWindows\\SelectCustomerWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -150,9 +150,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "SQLQueryparkshouses.sql",
-              "DocumentMoniker": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\SQLQueryparkshouses.sql",
+              "DocumentMoniker": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\SQLQueryparkshouses.sql",
               "RelativeDocumentMoniker": "SQLQueryparkshouses.sql",
-              "ToolTip": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\SQLQueryparkshouses.sql",
+              "ToolTip": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\SQLQueryparkshouses.sql",
               "RelativeToolTip": "SQLQueryparkshouses.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2025-01-04T22:36:16.272Z"
@@ -167,9 +167,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "RentAParkApplication.cs",
-              "DocumentMoniker": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Presentation\\RentAParkApplication.cs",
+              "DocumentMoniker": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Presentation\\RentAParkApplication.cs",
               "RelativeDocumentMoniker": "RentAPark.Presentation\\RentAParkApplication.cs",
-              "ToolTip": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Presentation\\RentAParkApplication.cs",
+              "ToolTip": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Presentation\\RentAParkApplication.cs",
               "RelativeToolTip": "RentAPark.Presentation\\RentAParkApplication.cs",
               "ViewState": "AgIAACQBAAAAAAAAAAAqwFkBAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -180,9 +180,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "LookupReservationsWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Presentation\\Windows\\LookupReservationsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Presentation\\Windows\\LookupReservationsWindow.xaml",
               "RelativeDocumentMoniker": "RentAPark.Presentation\\Windows\\LookupReservationsWindow.xaml",
-              "ToolTip": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Presentation\\Windows\\LookupReservationsWindow.xaml",
+              "ToolTip": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Presentation\\Windows\\LookupReservationsWindow.xaml",
               "RelativeToolTip": "RentAPark.Presentation\\Windows\\LookupReservationsWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-02-26T22:04:52.457Z",
@@ -192,34 +192,32 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ReservationMapper.cs",
-              "DocumentMoniker": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Persistence\\Mappers\\ReservationMapper.cs",
+              "DocumentMoniker": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Persistence\\Mappers\\ReservationMapper.cs",
               "RelativeDocumentMoniker": "RentAPark.Persistence\\Mappers\\ReservationMapper.cs",
-              "ToolTip": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Persistence\\Mappers\\ReservationMapper.cs",
+              "ToolTip": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Persistence\\Mappers\\ReservationMapper.cs",
               "RelativeToolTip": "RentAPark.Persistence\\Mappers\\ReservationMapper.cs",
               "ViewState": "AgIAAF0AAAAAAAAAAAAAAF0AAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T22:02:35.201Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-05T22:02:35.201Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "MaintenanceWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Presentation\\Windows\\MaintenanceWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Presentation\\Windows\\MaintenanceWindow.xaml",
               "RelativeDocumentMoniker": "RentAPark.Presentation\\Windows\\MaintenanceWindow.xaml",
-              "ToolTip": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Presentation\\Windows\\MaintenanceWindow.xaml",
+              "ToolTip": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Presentation\\Windows\\MaintenanceWindow.xaml",
               "RelativeToolTip": "RentAPark.Presentation\\Windows\\MaintenanceWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-05T22:47:06.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-05T22:47:06.721Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "ParkMapper.cs",
-              "DocumentMoniker": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Persistence\\Mappers\\ParkMapper.cs",
+              "DocumentMoniker": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Persistence\\Mappers\\ParkMapper.cs",
               "RelativeDocumentMoniker": "RentAPark.Persistence\\Mappers\\ParkMapper.cs",
-              "ToolTip": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Persistence\\Mappers\\ParkMapper.cs",
+              "ToolTip": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Persistence\\Mappers\\ParkMapper.cs",
               "RelativeToolTip": "RentAPark.Persistence\\Mappers\\ParkMapper.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAowE0AAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -229,9 +227,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "FacilityMapper.cs",
-              "DocumentMoniker": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Persistence\\Mappers\\FacilityMapper.cs",
+              "DocumentMoniker": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Persistence\\Mappers\\FacilityMapper.cs",
               "RelativeDocumentMoniker": "RentAPark.Persistence\\Mappers\\FacilityMapper.cs",
-              "ToolTip": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Persistence\\Mappers\\FacilityMapper.cs",
+              "ToolTip": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Persistence\\Mappers\\FacilityMapper.cs",
               "RelativeToolTip": "RentAPark.Persistence\\Mappers\\FacilityMapper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -241,9 +239,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "HouseMapper.cs",
-              "DocumentMoniker": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Persistence\\Mappers\\HouseMapper.cs",
+              "DocumentMoniker": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Persistence\\Mappers\\HouseMapper.cs",
               "RelativeDocumentMoniker": "RentAPark.Persistence\\Mappers\\HouseMapper.cs",
-              "ToolTip": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Persistence\\Mappers\\HouseMapper.cs",
+              "ToolTip": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Persistence\\Mappers\\HouseMapper.cs",
               "RelativeToolTip": "RentAPark.Persistence\\Mappers\\HouseMapper.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAowDAAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -253,9 +251,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "LookupReservationsWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Presentation\\Windows\\LookupReservationsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Presentation\\Windows\\LookupReservationsWindow.xaml.cs",
               "RelativeDocumentMoniker": "RentAPark.Presentation\\Windows\\LookupReservationsWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Presentation\\Windows\\LookupReservationsWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\eindopdracht-rentapark\\RentAPark\\RentAPark.Presentation\\Windows\\LookupReservationsWindow.xaml.cs",
               "RelativeToolTip": "RentAPark.Presentation\\Windows\\LookupReservationsWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
