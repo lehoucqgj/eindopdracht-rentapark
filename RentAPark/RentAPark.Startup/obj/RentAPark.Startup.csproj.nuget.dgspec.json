@@ -1,0 +1,302 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Startup\\RentAPark.Startup.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Domain\\RentAPark.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Domain\\RentAPark.Domain.csproj",
+        "projectName": "RentAPark.Domain",
+        "projectPath": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Domain\\RentAPark.Domain.csproj",
+        "packagesPath": "C:\\Users\\gertj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gertj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Persistence\\RentAPark.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Persistence\\RentAPark.Persistence.csproj",
+        "projectName": "RentAPark.Persistence",
+        "projectPath": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Persistence\\RentAPark.Persistence.csproj",
+        "packagesPath": "C:\\Users\\gertj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gertj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Domain\\RentAPark.Domain.csproj": {
+                "projectPath": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Domain\\RentAPark.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Presentation\\RentAPark.Presentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Presentation\\RentAPark.Presentation.csproj",
+        "projectName": "RentAPark.Presentation",
+        "projectPath": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Presentation\\RentAPark.Presentation.csproj",
+        "packagesPath": "C:\\Users\\gertj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Presentation\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gertj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Domain\\RentAPark.Domain.csproj": {
+                "projectPath": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Domain\\RentAPark.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Startup\\RentAPark.Startup.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Startup\\RentAPark.Startup.csproj",
+        "projectName": "RentAPark.Startup",
+        "projectPath": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Startup\\RentAPark.Startup.csproj",
+        "packagesPath": "C:\\Users\\gertj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Startup\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gertj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Domain\\RentAPark.Domain.csproj": {
+                "projectPath": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Domain\\RentAPark.Domain.csproj"
+              },
+              "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Persistence\\RentAPark.Persistence.csproj": {
+                "projectPath": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Persistence\\RentAPark.Persistence.csproj"
+              },
+              "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Presentation\\RentAPark.Presentation.csproj": {
+                "projectPath": "C:\\Users\\gertj\\Documents\\Graduaat programmeren\\Prog3 gevorderd\\Eindopdracht\\RentAPark\\RentAPark.Presentation\\RentAPark.Presentation.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

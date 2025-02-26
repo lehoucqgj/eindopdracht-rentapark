@@ -1,0 +1,14 @@
+HouseReservations:
+	CONSTRAINT [FK_HuisReservaties_ToHouses] FOREIGN KEY ([House_id]) REFERENCES [dbo].[Houses] ([Id]),
+	CONSTRAINT [FK_HuisReservaties_ToReservations] FOREIGN KEY ([Reservation_id]) REFERENCES [dbo].[Reservations] ([Id])
+
+ParksFacilities:
+    CONSTRAINT [FK_Park_id] FOREIGN KEY ([Park_id]) REFERENCES [dbo].[Parks] ([Id]),
+    CONSTRAINT [FK_Faciliteit_id] FOREIGN KEY ([Facility_id]) REFERENCES [dbo].[Facilities] ([Id])
+
+ParksHouses:
+    CONSTRAINT [FK_ParkHuizen_ToHuizen] FOREIGN KEY ([House_id]) REFERENCES [dbo].[Houses] ([Id]),
+    CONSTRAINT [FK_ParkHuizen_ToPark] FOREIGN KEY ([Park_id]) REFERENCES [dbo].[Parks] ([Id])
+
+Reservations:
+    CONSTRAINT [FK_Reservaties_ToCustomers] FOREIGN KEY ([Customer_id]) REFERENCES [dbo].[Customers] ([Id])

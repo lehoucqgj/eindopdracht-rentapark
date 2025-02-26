@@ -1,0 +1,13 @@
+C:\Users\gertj\Documents\GitHub\programmeren\prog gevorderd\Eindopdracht\DatabasePopulator\DatabasePopulator.Persistence\bin\Debug\net8.0\DatabasePopulator.Main.deps.json
+C:\Users\gertj\Documents\GitHub\programmeren\prog gevorderd\Eindopdracht\DatabasePopulator\DatabasePopulator.Persistence\bin\Debug\net8.0\DatabasePopulator.Main.dll
+C:\Users\gertj\Documents\GitHub\programmeren\prog gevorderd\Eindopdracht\DatabasePopulator\DatabasePopulator.Persistence\bin\Debug\net8.0\DatabasePopulator.Main.pdb
+C:\Users\gertj\Documents\GitHub\programmeren\prog gevorderd\Eindopdracht\DatabasePopulator\DatabasePopulator.Persistence\obj\Debug\net8.0\DatabasePopulator.Main.csproj.AssemblyReference.cache
+C:\Users\gertj\Documents\GitHub\programmeren\prog gevorderd\Eindopdracht\DatabasePopulator\DatabasePopulator.Persistence\obj\Debug\net8.0\DatabasePopulator.Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gertj\Documents\GitHub\programmeren\prog gevorderd\Eindopdracht\DatabasePopulator\DatabasePopulator.Persistence\obj\Debug\net8.0\DatabasePopulator.Main.AssemblyInfoInputs.cache
+C:\Users\gertj\Documents\GitHub\programmeren\prog gevorderd\Eindopdracht\DatabasePopulator\DatabasePopulator.Persistence\obj\Debug\net8.0\DatabasePopulator.Main.AssemblyInfo.cs
+C:\Users\gertj\Documents\GitHub\programmeren\prog gevorderd\Eindopdracht\DatabasePopulator\DatabasePopulator.Persistence\obj\Debug\net8.0\DatabasePopulator.Main.csproj.CoreCompileInputs.cache
+C:\Users\gertj\Documents\GitHub\programmeren\prog gevorderd\Eindopdracht\DatabasePopulator\DatabasePopulator.Persistence\obj\Debug\net8.0\DatabasePopulator.Main.sourcelink.json
+C:\Users\gertj\Documents\GitHub\programmeren\prog gevorderd\Eindopdracht\DatabasePopulator\DatabasePopulator.Persistence\obj\Debug\net8.0\DatabasePopulator.Main.dll
+C:\Users\gertj\Documents\GitHub\programmeren\prog gevorderd\Eindopdracht\DatabasePopulator\DatabasePopulator.Persistence\obj\Debug\net8.0\refint\DatabasePopulator.Main.dll
+C:\Users\gertj\Documents\GitHub\programmeren\prog gevorderd\Eindopdracht\DatabasePopulator\DatabasePopulator.Persistence\obj\Debug\net8.0\DatabasePopulator.Main.pdb
+C:\Users\gertj\Documents\GitHub\programmeren\prog gevorderd\Eindopdracht\DatabasePopulator\DatabasePopulator.Persistence\obj\Debug\net8.0\ref\DatabasePopulator.Main.dll

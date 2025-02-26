@@ -1,0 +1,20 @@
+﻿RentAPark.Presentation
+1.0.0.0
+
+library
+C#
+.cs
+C:\Users\gertj\Documents\Graduaat programmeren\Prog3 gevorderd\Eindopdracht\RentAPark\RentAPark.Presentation\obj\Debug\net8.0-windows\
+RentAPark.Presentation
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+
+8-1171407519
+
+12-1277374649
+199-634019178
+MakeReservationWindows\MakeReservationWindow.xaml;MakeReservationWindows\SelectCustomerWindow.xaml;MakeReservationWindows\SelectHouse.xaml;MakeReservationWindows\SelectParkByFacilities.xaml;MakeReservationWindows\SelectParkByLocation.xaml;Windows\LookupReservationsWindow.xaml;Windows\MaintenanceWindow.xaml;Windows\MainWindow.xaml;
+
+False
+

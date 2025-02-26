@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Windows\LookupReservationsWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\MaintenanceWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\MainWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="MakeReservationWindows\MakeReservationWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="MakeReservationWindows\SelectCustomerWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="MakeReservationWindows\SelectHouse.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="MakeReservationWindows\SelectParkByFacilities.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="MakeReservationWindows\SelectParkByLocation.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Windows\LookupReservationsWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\MaintenanceWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MakeReservationWindows\MakeReservationWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MakeReservationWindows\SelectCustomerWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MakeReservationWindows\SelectHouse.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MakeReservationWindows\SelectParkByFacilities.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MakeReservationWindows\SelectParkByLocation.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
